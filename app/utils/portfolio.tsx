@@ -112,7 +112,7 @@ export const portfolios: Portfolio[] = [
         solution:
           "これは二つ目のHTMLとCSSのプロジェクトです。ベトナムで人気がるイーコマースの通り、このウェブを作りました。このプロジェクトをした後、HTMLとCSSの基礎を固めたり、ウェブのレイアウトとUI/UXを習っていました。このプロジェクトは3週間ぐらいかかりました。",
         links: {
-          github: "https://github.com/Maclinz/Snippet-Master-Reboot",
+          github: "https://github.com/dohoangnam2912/gonshop/tree/main/assets/img",
         },
         content: {
           title: "イーコマースのウェブ",
@@ -143,7 +143,7 @@ export const portfolios: Portfolio[] = [
         solution:
           "このプロジェクトを完成するため、Javascriptのプログラム、ReactjsとNodejsのフレームワークとMongoDBの知識をならいました。このプロジェクト完成した後、バックエンドとフロントエンドの稼働を分かりました。このプロジェクトは2ヶ月かかりましたが、ウェブの知識をたくさん集まって、とてもいい体験でした。",
         links: {
-          github: "https://github.com/Maclinz/Snippet-Master-Reboot",
+          github: "https://github.com/dohoangnam2912/expensetracker",
         },
         content: {
           title: "経費追跡ツールのウェブサイト",
@@ -171,7 +171,7 @@ export const portfolios: Portfolio[] = [
         solution:
           "このプロジェクトを通じて、NextJSとSassを学びました。NextJSを使用することで、異なるページの名前をルーティングできることや、Sassのクリーンな構文が私をサポートしてくれることにとても満足しています。ウェブサイトはまだ色彩やレスポンシブに関して改善が必要ですが、これらの改善は将来的に行われる予定です。",
         links: {
-          github: "https://github.com/Maclinz/Snippet-Master-Reboot",
+          github: "https://github.com/dohoangnam2912/namportfolio",
         },
         content: {
           title: "自己紹介ポートフォリオ",
@@ -198,7 +198,7 @@ export const portfolios: Portfolio[] = [
         solution:
            "このプロジェクトを実現するために、Pytorchと強化学習を使用しました。このプロジェクトによって、人工知能の領域、ニューラルネットワークシステムの動作方法、および機械学習に関する理解を深めることができました。",
         links: {
-          github: "https://github.com/Maclinz/Snippet-Master-Reboot",
+          github: "https://github.com/dohoangnam2912/snake-ai",
         },
         content: {
           title: "ヘビゲームのAIトレーニング",
@@ -224,7 +224,7 @@ export const portfolios: Portfolio[] = [
         solution:
            "このプロジェクトを完成するため,たくさんことが勉強できました。NextJS,MySQL,TailwindCSS, APIを接続することなど利用して、フロントエンドとバックエンドの両方の機能を完全に実現できます。ウェブサイトのレスポンシブ対応も完了しています。ただし、動画の画面、ライブストリームのタイトルの設定など、まだいくつかの小さなエラーが残っていますが、これらのエラーは将来的に修正される予定です。",
         links: {
-          github: "https://github.com/Maclinz/Snippet-Master-Reboot",
+          github: "https://github.com/dohoangnam2912/streaming-service",
         },
         content: {
           title: "経費追跡ツールのウェブサイト",
